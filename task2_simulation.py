@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 #Baraa Khanfar 1210640
 #Osama Zeidan 1210601
 #Mohammad Qady 1211099
+#Sadeen Khatib 1212164
 
 # Simulation parameters
 dt = 0.01  # Time step [s]
