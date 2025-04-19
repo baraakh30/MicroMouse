@@ -1,6 +1,10 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+#Baraa Khanfar 1210640
+#Osama Zeidan 1210601
+#Mohammad Qady 1211099
+
 # Simulation parameters
 dt = 0.01  # Time step [s]
 sim_time = 50  # Total simulation time [s]
